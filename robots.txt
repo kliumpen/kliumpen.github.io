@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kliumpen.github.io/sitemap.html.gz
+Sitemap: https://kliumpen.github.io/app/sitemap.html.gz
+Sitemap: https://kliumpen.github.io/assets/sitemap.html.gz
+Sitemap: https://kliumpen.github.io/css/sitemap.html.gz
+Sitemap: https://kliumpen.github.io/includes/sitemap.html.gz
+Sitemap: https://kliumpen.github.io/item/sitemap.html.gz
+Sitemap: https://kliumpen.github.io/src/sitemap.html.gz
